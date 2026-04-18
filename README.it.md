@@ -2,7 +2,7 @@
   <img src="assets/icon.png" alt="BetTracker" width="120" height="120" style="border-radius: 20px;" />
 </p>
 
-<h1 align="center">BetTracker</h1>
+<h1 align="center">Bet Tracker by Bonn</h1>
 
 <p align="center">
   <strong>Traccia, analizza e migliora le tue performance nelle scommesse sportive.</strong><br/>
@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://bettracker-bybonn.web.app">
-    <img src="https://img.shields.io/badge/Apri_App-BetTracker-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Apri BetTracker" />
+    <img src="https://img.shields.io/badge/Apri_App-BetTracker-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Apri Bet Tracker" />
   </a>
 </p>
 
@@ -29,9 +29,9 @@
 
 ---
 
-## Cos'è BetTracker?
+## Cos'è Bet Tracker?
 
-BetTracker è un tracker personale per scommesse sportive progettato per aiutarti a **capire le tue abitudini di gioco** attraverso i dati. Non incoraggia il gioco d'azzardo — ti offre un quadro chiaro e onesto dei tuoi risultati per prendere decisioni consapevoli.
+Bet Tracker è un tracker personale per scommesse sportive progettato per aiutarti a **capire le tue abitudini di gioco** attraverso i dati. Non incoraggia il gioco d'azzardo — ti offre un quadro chiaro e onesto dei tuoi risultati per prendere decisioni consapevoli.
 
 Che tu scommetta con soldi veri o voglia solo simulare senza rischiare nulla, BetTracker tiene tutto organizzato in un unico posto: le tue schedine, i saldi dei bookmaker, le statistiche di performance e l'analisi con intelligenza artificiale.
 
@@ -100,13 +100,13 @@ In alternativa, usa **Importa da Foto** per far leggere all'AI lo screenshot del
 Quando una scommessa si risolve, vai nello **Storico**, aggiorna lo stato (Vinta/Persa) e inserisci la vincita effettiva. Le statistiche e il saldo si aggiornano automaticamente.
 
 ### 5. Gestisci il Bankroll
-In **Statistiche > Saldo**, registra ricariche e prelievi per ogni bookmaker. BetTracker calcola il profitto netto per bookmaker e complessivo.
+In **Statistiche > Saldo**, registra ricariche e prelievi per ogni bookmaker. Bet Tracker calcola il profitto netto per bookmaker e complessivo.
 
 ### 6. Analizza le Performance
 Controlla **Statistiche** e **Insights** per capire dove vinci, dove perdi e come la tua strategia si evolve nel tempo.
 
 ### 7. Installa come App (Opzionale)
-BetTracker è una PWA — su mobile, tocca "Aggiungi alla schermata Home" per un'esperienza simile a un'app nativa. Funziona offline per consultare i tuoi dati.
+Bet Tracker è una PWA — su mobile, tocca "Aggiungi alla schermata Home" per un'esperienza simile a un'app nativa. Funziona offline per consultare i tuoi dati.
 
 ---
 
@@ -123,7 +123,7 @@ BetTracker è una PWA — su mobile, tocca "Aggiungi alla schermata Home" per un
 
 ## Stack Tecnologico
 
-BetTracker è una moderna single-page application costruita con strumenti di livello production:
+Bet Tracker è una moderna single-page application costruita con strumenti di livello production:
 
 | Livello | Tecnologia |
 |---------|------------|
@@ -149,7 +149,7 @@ BetTracker è una moderna single-page application costruita con strumenti di liv
 
 ## Privacy e Sicurezza
 
-I tuoi dati sono tuoi. BetTracker salva tutto nel tuo account Firebase personale, protetto da autenticazione Google e regole di sicurezza Firestore. Nessuno — incluso lo sviluppatore — può accedere ai tuoi dati di scommessa.
+I tuoi dati sono tuoi. Bet Tracker salva tutto nel tuo account Firebase personale, protetto da autenticazione Google e regole di sicurezza Firestore. Nessuno — incluso lo sviluppatore — può accedere ai tuoi dati di scommessa.
 
 Per tutti i dettagli, consulta la [Policy di Sicurezza](SECURITY.it.md).
 
@@ -168,5 +168,5 @@ Questo progetto è rilasciato con una [licenza personalizzata](LICENSE) — l'ap
 ---
 
 <p align="center">
-  <sub>BetTracker non incoraggia il gioco d'azzardo. È uno strumento di tracciamento personale. Gioca responsabilmente.</sub>
+  <sub>Bet Tracker non incoraggia il gioco d'azzardo. È uno strumento di tracciamento personale. Gioca responsabilmente.</sub>
 </p>

@@ -2,7 +2,7 @@
   <img src="assets/icon.png" alt="BetTracker" width="120" height="120" style="border-radius: 20px;" />
 </p>
 
-<h1 align="center">BetTracker</h1>
+<h1 align="center">Bet Tracker by Bonn</h1>
 
 <p align="center">
   <strong>Track, analyze, and improve your sports betting performance.</strong><br/>
@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://bettracker-bybonn.web.app">
-    <img src="https://img.shields.io/badge/Open_App-BetTracker-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open BetTracker" />
+    <img src="https://img.shields.io/badge/Open_App-BetTracker-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open Bet Tracker" />
   </a>
 </p>
 
@@ -29,11 +29,11 @@
 
 ---
 
-## What is BetTracker?
+## What is Bet Tracker?
 
-BetTracker is a personal sports betting tracker designed to help you **understand your betting habits** through data. It doesn't encourage gambling — it gives you a clear, honest picture of your results so you can make informed decisions.
+Bet Tracker is a personal sports betting tracker designed to help you **understand your betting habits** through data. It doesn't encourage gambling — it gives you a clear, honest picture of your results so you can make informed decisions.
 
-Whether you bet for real or just want to simulate without risking money, BetTracker keeps everything organized in one place: your bet slips, your bookmaker balances, your performance stats, and AI-powered analysis.
+Whether you bet for real or just want to simulate without risking money, Bet Tracker keeps everything organized in one place: your bet slips, your bookmaker balances, your performance stats, and AI-powered analysis.
 
 ---
 
@@ -43,7 +43,7 @@ Whether you bet for real or just want to simulate without risking money, BetTrac
 Create single or accumulator bets with full details: teams, sport, competition, bet type, odds, stake, and bookmaker. Choose between **Real** (actual money) and **Virtual** (simulation) mode.
 
 ### Screenshot Import (AI-powered)
-Snap a photo of your bet slip from any bookmaker app. BetTracker uses **Gemini AI** to automatically extract all matches, odds, stake, and bookmaker name — saving you manual entry time.
+Snap a photo of your bet slip from any bookmaker app. Bet Tracker uses **Gemini AI** to automatically extract all matches, odds, stake, and bookmaker name — saving you manual entry time.
 
 ### History
 Browse all your bet slips with filters by status (Won / Lost / Pending), mode (Real / Virtual), and bookmaker. Update outcomes, record actual winnings, or share slips with friends via a unique public link.
@@ -100,13 +100,13 @@ Alternatively, use **Import from Photo** to let AI read your bookmaker's screens
 When a bet resolves, go to **History**, update its status (Won/Lost), and enter the actual payout. Your stats and balance update automatically.
 
 ### 5. Manage Your Bankroll
-In **Statistics > Balance**, register deposits and withdrawals for each bookmaker. BetTracker calculates your net profit per bookmaker and overall.
+In **Statistics > Balance**, register deposits and withdrawals for each bookmaker. Bet Tracker calculates your net profit per bookmaker and overall.
 
 ### 6. Analyze Your Performance
 Check **Statistics** and **Insights** to understand where you win, where you lose, and how your strategy evolves over time.
 
 ### 7. Install as App (Optional)
-BetTracker is a PWA — on mobile, tap "Add to Home Screen" for a native app experience. It works offline for browsing your data.
+Bet Tracker is a PWA — on mobile, tap "Add to Home Screen" for a native app experience. It works offline for browsing your data.
 
 ---
 
@@ -123,7 +123,7 @@ BetTracker is a PWA — on mobile, tap "Add to Home Screen" for a native app exp
 
 ## Tech Stack
 
-BetTracker is a modern single-page application built with production-grade tools:
+Bet Tracker is a modern single-page application built with production-grade tools:
 
 | Layer | Technology |
 |-------|------------|
@@ -149,7 +149,7 @@ BetTracker is a modern single-page application built with production-grade tools
 
 ## Privacy & Security
 
-Your data is yours. BetTracker stores everything in your personal Firebase account, protected by Google authentication and Firestore security rules. No one — including the developer — can access your betting data.
+Your data is yours. Bet Tracker stores everything in your personal Firebase account, protected by Google authentication and Firestore security rules. No one — including the developer — can access your betting data.
 
 For full details, see the [Security Policy](SECURITY.md).
 
@@ -168,5 +168,5 @@ This project is released under a [custom license](LICENSE) — the app is free t
 ---
 
 <p align="center">
-  <sub>BetTracker does not encourage gambling. It is a personal tracking tool. Bet responsibly.</sub>
+  <sub>Bet Tracker does not encourage gambling. It is a personal tracking tool. Bet responsibly.</sub>
 </p>
