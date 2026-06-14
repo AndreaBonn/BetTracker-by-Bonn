@@ -167,6 +167,14 @@ Questo progetto è rilasciato con una [licenza personalizzata](LICENSE) — l'ap
 
 ---
 
+## Sostieni il progetto
+
+Bet Tracker è gratuita. Se ti è utile e vuoi contribuire, puoi lasciare un'offerta tramite PayPal. L'importo lo scegli tu ed è del tutto facoltativo.
+
+[![Dona con PayPal](https://img.shields.io/badge/Dona-PayPal-00457C?logo=paypal&logoColor=white&style=for-the-badge)](https://paypal.me/AndreaBonacci19)
+
+---
+
 <p align="center">
   <sub>Bet Tracker non incoraggia il gioco d'azzardo. È uno strumento di tracciamento personale. Gioca responsabilmente.</sub>
 </p>

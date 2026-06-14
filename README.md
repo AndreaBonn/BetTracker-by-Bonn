@@ -167,6 +167,14 @@ This project is released under a [custom license](LICENSE) — the app is free t
 
 ---
 
+## Support the project
+
+Bet Tracker is free to use. If it helps you and you want to give something back, you can leave a tip via PayPal. The amount is up to you and it is entirely optional.
+
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?logo=paypal&logoColor=white&style=for-the-badge)](https://paypal.me/AndreaBonacci19)
+
+---
+
 <p align="center">
   <sub>Bet Tracker does not encourage gambling. It is a personal tracking tool. Bet responsibly.</sub>
 </p>
