@@ -27,6 +27,10 @@
   <a href="README.it.md">Italiano</a> · <a href="SECURITY.md">Security</a>
 </p>
 
+<p align="center">
+  <img src="assets/screenshots/06-statistiche.png" alt="Bet Tracker statistics dashboard" width="760" />
+</p>
+
 ---
 
 ## Contents
@@ -56,11 +60,19 @@ Whether you bet for real or just want to simulate without risking money, Bet Tra
 ### New Bet Slip
 Create single or accumulator bets with full details: teams, sport, competition, bet type, odds, stake, and bookmaker. Choose between **Real** (actual money) and **Virtual** (simulation) mode.
 
+<p align="center">
+  <img src="assets/screenshots/03-nuova-schedina.png" alt="New bet slip form" width="720" />
+</p>
+
 ### Screenshot Import (AI-powered)
 Take a photo of your bet slip from any bookmaker app. Bet Tracker uses **Gemini AI** to extract all matches, odds, stake, and bookmaker name automatically, so you skip the manual entry.
 
 ### History
 Browse all your bet slips with filters by status (Won / Lost / Pending), mode (Real / Virtual), and bookmaker. Update outcomes, record actual winnings, or share slips with friends via a unique public link.
+
+<p align="center">
+  <img src="assets/screenshots/04-storico.png" alt="Bet slip history with filters" width="720" />
+</p>
 
 ### Statistics
 Three dedicated tabs give you a complete performance overview:
@@ -71,6 +83,11 @@ Three dedicated tabs give you a complete performance overview:
 | **Statistics** | Total bets, win rate, ROI, invested vs won, bankroll trend chart, odds distribution chart |
 | **Insights** | Performance by odds range, single vs accumulator comparison, 7/30-day rolling profit chart, best & worst bets, win/loss streaks, expected vs actual win rate |
 
+<p align="center">
+  <img src="assets/screenshots/05-saldo.png" alt="Balance per bookmaker" width="49%" />
+  <img src="assets/screenshots/07-insights.png" alt="Performance insights" width="49%" />
+</p>
+
 ### AI Chat Assistant
 Ask questions about your data in natural language. Powered by **Gemini 2.5 Flash**, the assistant analyzes your real betting history and answers questions like:
 - *"How am I performing on football vs basketball?"*
@@ -78,6 +95,10 @@ Ask questions about your data in natural language. Powered by **Gemini 2.5 Flash
 - *"Compare my results across bookmakers"*
 
 The AI only analyzes your data. It never gives betting tips or predictions.
+
+<p align="center">
+  <img src="assets/screenshots/08-chat.png" alt="AI chat assistant" width="720" />
+</p>
 
 ### Share Bet Slips
 Generate a shareable public link for any bet slip. Friends can view match details, odds, and results without an account. A visit counter tracks how many people have seen it.
@@ -90,6 +111,10 @@ Generate a shareable public link for any bet slip. Friends can view match detail
 - **Language**: English and Italian with automatic browser detection
 - **Data Management**: export to CSV or Excel, import from CSV, full JSON backup and restore, archive old slips
 - **Account Deletion**: permanently delete all data with double confirmation
+
+<p align="center">
+  <img src="assets/screenshots/09-impostazioni.png" alt="Settings page" width="720" />
+</p>
 
 ---
 
@@ -121,6 +146,12 @@ Check **Statistics** and **Insights** to see where you win, where you lose, and 
 
 ### 7. Install as App (Optional)
 Bet Tracker is a PWA. On mobile, tap "Add to Home Screen" for a native app experience. It works offline for browsing your data.
+
+<p align="center">
+  <img src="assets/screenshots/10-mobile-saldo.png" alt="Mobile balance view" width="270" />
+  &nbsp;&nbsp;
+  <img src="assets/screenshots/11-mobile-stats.png" alt="Mobile statistics view" width="270" />
+</p>
 
 ---
 

@@ -27,6 +27,10 @@
   <a href="README.md">English</a> · <a href="SECURITY.it.md">Sicurezza</a>
 </p>
 
+<p align="center">
+  <img src="assets/screenshots/06-statistiche.png" alt="Dashboard statistiche di Bet Tracker" width="760" />
+</p>
+
 ---
 
 ## Indice
@@ -56,11 +60,19 @@ Che tu scommetta con soldi veri o voglia solo simulare senza rischiare nulla, Be
 ### Nuova Schedina
 Crea scommesse singole o multiple con tutti i dettagli: squadre, sport, competizione, tipo di scommessa, quota, importo e bookmaker. Scegli tra modalità **Reale** (soldi veri) e **Virtuale** (simulazione).
 
+<p align="center">
+  <img src="assets/screenshots/03-nuova-schedina.png" alt="Form nuova schedina" width="720" />
+</p>
+
 ### Importa da Screenshot (AI)
 Scatta una foto della tua schedina da qualsiasi app di bookmaker. Bet Tracker usa **Gemini AI** per estrarre automaticamente tutte le partite, le quote, l'importo e il nome del bookmaker, così salti l'inserimento manuale.
 
 ### Storico
 Consulta tutte le tue schedine con filtri per stato (Vinta / Persa / In Attesa), modalità (Reale / Virtuale) e bookmaker. Aggiorna i risultati, registra le vincite effettive o condividi le schedine con amici tramite un link pubblico unico.
+
+<p align="center">
+  <img src="assets/screenshots/04-storico.png" alt="Storico schedine con filtri" width="720" />
+</p>
 
 ### Statistiche
 Tre tab dedicate ti danno un quadro completo delle performance:
@@ -71,6 +83,11 @@ Tre tab dedicate ti danno un quadro completo delle performance:
 | **Statistiche** | Schedine totali, % vincita, ROI, investito vs vinto, grafico andamento bankroll, distribuzione quote |
 | **Insights** | Performance per fascia di quota, confronto singola vs multipla, grafico profitto rolling 7/30 giorni, miglior e peggior scommessa, strisce di vittorie/sconfitte, % vincita attesa vs reale |
 
+<p align="center">
+  <img src="assets/screenshots/05-saldo.png" alt="Saldo per bookmaker" width="49%" />
+  <img src="assets/screenshots/07-insights.png" alt="Insights sulle performance" width="49%" />
+</p>
+
 ### Assistente AI Chat
 Fai domande sui tuoi dati in linguaggio naturale. Alimentato da **Gemini 2.5 Flash**, l'assistente analizza il tuo storico reale e risponde a domande come:
 - *"Come sto andando nel calcio rispetto al basket?"*
@@ -78,6 +95,10 @@ Fai domande sui tuoi dati in linguaggio naturale. Alimentato da **Gemini 2.5 Fla
 - *"Confronta i miei risultati tra i vari bookmaker"*
 
 L'AI analizza solo i tuoi dati. Non dà mai consigli di scommessa o pronostici.
+
+<p align="center">
+  <img src="assets/screenshots/08-chat.png" alt="Assistente AI Chat" width="720" />
+</p>
 
 ### Condividi Schedine
 Genera un link pubblico condivisibile per qualsiasi schedina. Gli amici possono vedere i dettagli delle partite, le quote e i risultati senza un account. Un contatore traccia quante persone l'hanno visualizzata.
@@ -90,6 +111,10 @@ Genera un link pubblico condivisibile per qualsiasi schedina. Gli amici possono 
 - **Lingua**: italiano e inglese con rilevamento automatico della lingua del browser
 - **Gestione Dati**: esporta in CSV o Excel, importa da CSV, backup e ripristino JSON completo, archivia schedine vecchie
 - **Eliminazione Account**: cancella definitivamente tutti i dati con doppia conferma
+
+<p align="center">
+  <img src="assets/screenshots/09-impostazioni.png" alt="Pagina impostazioni" width="720" />
+</p>
 
 ---
 
@@ -121,6 +146,12 @@ Controlla **Statistiche** e **Insights** per capire dove vinci, dove perdi e com
 
 ### 7. Installa come App (Opzionale)
 Bet Tracker è una PWA. Su mobile, tocca "Aggiungi alla schermata Home" per un'esperienza simile a un'app nativa. Funziona offline per consultare i tuoi dati.
+
+<p align="center">
+  <img src="assets/screenshots/10-mobile-saldo.png" alt="Vista saldo su mobile" width="270" />
+  &nbsp;&nbsp;
+  <img src="assets/screenshots/11-mobile-stats.png" alt="Vista statistiche su mobile" width="270" />
+</p>
 
 ---
 
