@@ -10,8 +10,11 @@
 </p>
 
 <p align="center">
-  <a href="https://bettracker-bybonn.web.app">
+  <a href="https://bet-tracker-by-bonn.web.app">
     <img src="https://img.shields.io/badge/Open_App-BetTracker-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open Bet Tracker" />
+  </a>
+  <a href="#try-the-demo">
+    <img src="https://img.shields.io/badge/Try_the_Demo-No_sign--up-f59e0b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Try the demo, no sign-up" />
   </a>
 </p>
 
@@ -120,8 +123,17 @@ Generate a shareable public link for any bet slip. Friends can view match detail
 
 ## How to Use It
 
+### Try the Demo
+Want to look around before signing in? Open [bet-tracker-by-bonn.web.app](https://bet-tracker-by-bonn.web.app) and tap **Try the demo** on the sign-in screen. The app opens with sample bet slips, bookmakers and stats already filled in, so you can browse every page and add your own test slips.
+
+- No account and no Google sign-in needed
+- Sample data lives only in your browser tab and disappears when you close it
+- Features that need an account, like the AI assistant, show a sign-up prompt instead
+
+When you are ready, tap **Sign up** in the demo banner to start with your own data.
+
 ### 1. Sign In
-Open [bettracker-bybonn.web.app](https://bettracker-bybonn.web.app) and sign in with your Google account. No registration form, no email verification.
+Open [bet-tracker-by-bonn.web.app](https://bet-tracker-by-bonn.web.app) and sign in with your Google account. No registration form, no email verification.
 
 ### 2. Set Up Your AI Key (Optional)
 Go to **Settings** and paste your free Gemini API key (get one at [aistudio.google.com](https://aistudio.google.com)). This unlocks the screenshot import feature and the AI chat assistant.

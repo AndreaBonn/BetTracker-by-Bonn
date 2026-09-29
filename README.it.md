@@ -10,8 +10,11 @@
 </p>
 
 <p align="center">
-  <a href="https://bettracker-bybonn.web.app">
+  <a href="https://bet-tracker-by-bonn.web.app">
     <img src="https://img.shields.io/badge/Apri_App-BetTracker-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Apri Bet Tracker" />
+  </a>
+  <a href="#prova-la-demo">
+    <img src="https://img.shields.io/badge/Prova_la_Demo-Senza_registrazione-f59e0b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Prova la demo, senza registrazione" />
   </a>
 </p>
 
@@ -120,8 +123,17 @@ Genera un link pubblico condivisibile per qualsiasi schedina. Gli amici possono 
 
 ## Come si Usa
 
+### Prova la Demo
+Vuoi dare un'occhiata prima di accedere? Apri [bet-tracker-by-bonn.web.app](https://bet-tracker-by-bonn.web.app) e tocca **Prova la demo** nella schermata di accesso. L'app si apre con schedine, bookmaker e statistiche di esempio già compilati: puoi girare tutte le pagine e aggiungere schedine di prova.
+
+- Non serve un account né l'accesso con Google
+- I dati di esempio restano solo nella scheda del browser e spariscono quando la chiudi
+- Le funzioni legate a un account, come l'assistente AI, mostrano un invito a registrarti
+
+Quando sei pronto, tocca **Registrati** nel banner della demo per partire con i tuoi dati.
+
 ### 1. Accedi
-Apri [bettracker-bybonn.web.app](https://bettracker-bybonn.web.app) e accedi con il tuo account Google. Nessun modulo di registrazione, nessuna verifica email.
+Apri [bet-tracker-by-bonn.web.app](https://bet-tracker-by-bonn.web.app) e accedi con il tuo account Google. Nessun modulo di registrazione, nessuna verifica email.
 
 ### 2. Configura la Chiave AI (Opzionale)
 Vai in **Impostazioni** e incolla la tua chiave Gemini gratuita (ottienine una su [aistudio.google.com](https://aistudio.google.com)). Questo sblocca l'importazione da screenshot e l'assistente AI.
